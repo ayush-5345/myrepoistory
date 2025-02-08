@@ -1,2 +1,0 @@
-"Hello i am learning aws devops "
-"In aws devops i am learning git and github"
